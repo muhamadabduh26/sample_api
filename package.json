@@ -1,6 +1,7 @@
 {
-  "name": "sample_api",
+  "name": "cek-nasabah-api",
   "version": "1.0.0",
+  "description": "API untuk cek data nasabah berdasarkan no_kartu",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
